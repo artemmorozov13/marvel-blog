@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# You can see the result here
+
+https://artemmorozov13.github.io/marvel-blog/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
